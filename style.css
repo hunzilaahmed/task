@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(50, 49, 49);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.my {
+  text-align: center;
+  color: white;
+}
+.container {
+  display: flex;
+  
+  background-color: gray;
+  width: 650px;
+  height: 500px;
+}
+.container2 {
+  background-color: rgb(203, 197, 197);
+  width: 450px;
+  height: 100px;
+  display: flex;
+  margin-left: 100px;
+  position: relative;
+  top: 20px;
+  /* margin-top: 100px; */
+  /* margin: 60px 20px 0px 40px; */
+}
+
+.check {
+  width: 170px;
+  height: 70px;
+}
+.check2 {
+  width: 190px;
+  height: 70px;
+}
+.check3 {
+  width: 60px;
+  height: 40px;
+  margin: 60px 20px 0px 50px;
+}
